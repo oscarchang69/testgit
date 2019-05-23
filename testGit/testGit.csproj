@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="file3.txt" />
+    <Content Include="file4.txt" />
     <Content Include="Global.asax" />
     <Content Include="index.html" />
     <Content Include="Web.config" />
