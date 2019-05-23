@@ -70,6 +70,7 @@
     <Content Include="Global.asax" />
     <Content Include="index.html" />
     <Content Include="Web.config" />
+    <Content Include="檔案01.txt" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Global.asax.cs">
